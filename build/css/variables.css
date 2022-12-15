@@ -1,19 +1,29 @@
 /**
  * Do not edit directly
- * Generated on Thu, 15 Dec 2022 12:57:52 GMT
+ * Generated on Thu, 15 Dec 2022 13:10:25 GMT
  */
 
 :root {
-  --vgz-primairy-dark: #0B6B6F;
-  --vgz-primairy-base: #0a9f8e;
-  --vgz-primairy-light: #22c4b4;
-  --vgz-cta: #006FCE;
+  --vgz-color-primary: #0B6B6F;
+  --vgz-color-secondary: #0a9f8e;
+  --vgz-color-tertiary: #22c4b4;
+  --vgz-color-cta: #006FCE;
   --vgz-h1: [object Object];
   --vgz-opacity-full: 1;
   --vgz-opacity-strong: 0.75;
   --vgz-opacity-medium: 0.5;
   --vgz-opacity-suble: 0.25;
   --vgz-opacity-none: 0;
+  --vgz-font-family-title: Asap;
+  --vgz-font-familty-text: Roboto;
+  --vgz-font-weight-regular: Regular;
+  --vgz-font-weight-medium: SemiBold;
+  --vgz-font-weight-bold: Bold;
+  --vgz-border-radius-tiny: 4;
+  --vgz-border-rasdius-small: 10;
+  --vgz-border-radius-base: 20;
+  --vgz-border-radius-pill: 9999;
+  --vgz-border-radius-circle: 50%;
   --izz-primairy-dark: #4F1966;
   --izz-primairy-base: #951B81;
   --izz-primairy-light: #A74C97;

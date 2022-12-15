@@ -2,7 +2,7 @@ body {
 }
 
 button {
-    background-color: var(--global-color-primary);
+    background-color: var(--vgz-color-cta);
     padding: .5rem 1rem;
-    border-radius: .25rem;
+    border-radius: var(--vgz-border-radius-base);
 }
