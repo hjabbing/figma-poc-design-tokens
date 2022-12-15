@@ -4,46 +4,25 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Dec 2022 13:20:50 GMT
+// Generated on Thu, 15 Dec 2022 13:25:36 GMT
 
 
 import UIKit
 
 public class StyleDictionaryClass {
-    public static let borderRadiusBase = 20
-    public static let borderRadiusCircle = 50%
-    public static let borderRadiusPill = 9999
-    public static let borderRadiusTiny = 4
-    public static let borderRasdiusSmall = 10
-    public static let colorCta = #006FCE
-    public static let colorPrimary = #0B6B6F
-    public static let colorSecondary = #0a9f8e
-    public static let colorTertiary = #22c4b4
-    public static let fontFamiltyText = Roboto
-    public static let fontFamilyTitle = Asap
-    public static let fontWeightBold = Bold
-    public static let fontWeightMedium = SemiBold
-    public static let fontWeightRegular = Regular
-    public static let h1 = [object Object]
-    public static let opacityFull = 1
-    public static let opacityMedium = 0.5
-    public static let opacityNone = 0
-    public static let opacityStrong = 0.75
-    public static let opacitySuble = 0.25
-    public static let primairyBase = #951B81
-    public static let primairyLight = #A74C97
-    public static let tokenSetOrder0 = VGZ
-    public static let tokenSetOrder1 = IZZ
+    public static let izzPrimairyBase = #951B81
+    public static let izzPrimairyDark = #4F1966
+    public static let izzPrimairyLight = #A74C97
     public static let vgzBorderRadiusBase = 20
     public static let vgzBorderRadiusCircle = 50%
     public static let vgzBorderRadiusPill = 9999
+    public static let vgzBorderRadiusSmall = 10
     public static let vgzBorderRadiusTiny = 4
-    public static let vgzBorderRasdiusSmall = 10
     public static let vgzColorCta = #006FCE
     public static let vgzColorPrimary = #0B6B6F
     public static let vgzColorSecondary = #0a9f8e
     public static let vgzColorTertiary = #22c4b4
-    public static let vgzFontFamiltyText = Roboto
+    public static let vgzFontFamilyText = Roboto
     public static let vgzFontFamilyTitle = Asap
     public static let vgzFontSizeBase = 16
     public static let vgzFontSizeLarge = 20
@@ -66,4 +45,11 @@ public class StyleDictionaryClass {
     public static let vgzOpacityNone = 0
     public static let vgzOpacityStrong = 0.75
     public static let vgzOpacitySuble = 0.25
+    public static let vgzSpacingBase = 24
+    public static let vgzSpacingLarge = 32
+    public static let vgzSpacingMedium = 16
+    public static let vgzSpacingSmall = 8
+    public static let vgzSpacingTiny = 4
+    public static let vgzSpacingXl = 48
+    public static let vgzSpacingXxl = 64
 }

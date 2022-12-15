@@ -1,2 +1,9 @@
 node_modules/
 build/
+build/android/colors.xml
+build/android/font_dimens.xml
+build/css/variables.css
+build/ios-swift/StyleDictionary+Class.swift
+build/ios-swift/StyleDictionary+Enum.swift
+build/ios-swift/StyleDictionary+Struct.swift
+build/scss/_variables.scss
