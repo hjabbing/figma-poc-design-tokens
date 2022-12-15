@@ -3,10 +3,16 @@
   "description": "Figma Poc - Design Tokens",
   "version": "1.0.0",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "husky": "^8.0.2"
+  },
   "scripts": {
     "build": "style-dictionary build"
+  },
+  "husky": {
+    "hooks": {
+      "post-merge": "npm run build"
+    }
   },
   "repository": {
     "type": "git",
