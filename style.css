@@ -1,8 +1,30 @@
 body {
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 1.5rem;
+}
+
+input {
+    accent-color: var(--color-primary);
+    width: 1.4rem;
+    aspect-ratio: 1;
+    vertical-align: middle;
+    margin-top: -.1rem;
+}
+
+label {
+    display: block;
+    margin: 0 0 .75rem;
 }
 
 button {
-    background-color: var(--vgz-color-cta);
+    background-color: var(--color-primary);
     padding: .5rem 1rem;
-    border-radius: var(--vgz-border-radius-base);
+    color: white;
+    font-size: 1.25rem;
+    border-radius: calc(var(--border-radius-base) * 1px);
+    border-color: var(--color-primary);
+}
+
+hr {
+    margin: 1.5rem 0;
 }

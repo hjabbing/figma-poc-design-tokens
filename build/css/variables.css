@@ -1,13 +1,13 @@
 /**
  * Do not edit directly
- * Generated on Thu, 15 Dec 2022 13:34:39 GMT
+ * Generated on Thu, 15 Dec 2022 14:08:08 GMT
  */
 
 :root {
-  --color-primary: #4F1966;
-  --color-secondary: #951B81;
-  --color-tertiary: #A74C97;
-  --color-cta: #006fce;
+  --color-primary: #E5F7F7;
+  --color-secondary: #F2F2F2;
+  --color-tertiary: #22c4b4;
+  --color-cta: #006FCE;
   --opacity-full: 1;
   --opacity-strong: 0.75;
   --opacity-medium: 0.5;
@@ -49,6 +49,15 @@
   --text-decoration-normal: none;
   --text-decoration-underline: underline;
   --text-decoration-line: line-through;
-  --token-set-order-0: VGZ;
+  --color-white: #242424;
+  --color-dark: #F2F2F2;
+  --color-warning: #FD9827;
+  --color-error: #E31B23;
+  --color-light: #333333;
+  --color-light-grey: #e9e9e9;
+  --color-lighter-grey: #f2f2f2;
+  --color-disabled-grey: #656565;
+  --token-set-order-0: VGZ Light;
   --token-set-order-1: IZZ;
+  --token-set-order-2: VGZ Dark;
 }

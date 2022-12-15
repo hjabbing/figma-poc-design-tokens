@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Dec 2022 13:34:39 GMT
+// Generated on Thu, 15 Dec 2022 14:08:08 GMT
 
 
 import UIKit
@@ -18,10 +18,18 @@ public class StyleDictionaryClass {
     public static let borderWidthBase = 2
     public static let borderWidthLarge = 4
     public static let borderWidthSmall = 1
-    public static let colorCta = #006fce
-    public static let colorPrimary = #4F1966
-    public static let colorSecondary = #951B81
-    public static let colorTertiary = #A74C97
+    public static let colorCta = #006FCE
+    public static let colorDark = #F2F2F2
+    public static let colorDisabledGrey = #656565
+    public static let colorError = #E31B23
+    public static let colorLight = #333333
+    public static let colorLightGrey = #e9e9e9
+    public static let colorLighterGrey = #f2f2f2
+    public static let colorPrimary = #E5F7F7
+    public static let colorSecondary = #F2F2F2
+    public static let colorTertiary = #22c4b4
+    public static let colorWarning = #FD9827
+    public static let colorWhite = #242424
     public static let fontFamiltyText = Roboto
     public static let fontFamilyTitle = Asap
     public static let fontSizeBase = 16
@@ -55,6 +63,7 @@ public class StyleDictionaryClass {
     public static let textDecorationLine = line-through
     public static let textDecorationNormal = none
     public static let textDecorationUnderline = underline
-    public static let tokenSetOrder0 = VGZ
+    public static let tokenSetOrder0 = VGZ Light
     public static let tokenSetOrder1 = IZZ
+    public static let tokenSetOrder2 = VGZ Dark
 }

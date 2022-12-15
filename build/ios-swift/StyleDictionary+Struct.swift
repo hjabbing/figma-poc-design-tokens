@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Dec 2022 13:34:39 GMT
+// Generated on Thu, 15 Dec 2022 14:08:08 GMT
 
 
 import UIKit
@@ -18,10 +18,18 @@ internal struct StyleDictionaryStruct {
     internal static let borderWidthBase = 2
     internal static let borderWidthLarge = 4
     internal static let borderWidthSmall = 1
-    internal static let colorCta = #006fce
-    internal static let colorPrimary = #4F1966
-    internal static let colorSecondary = #951B81
-    internal static let colorTertiary = #A74C97
+    internal static let colorCta = #006FCE
+    internal static let colorDark = #F2F2F2
+    internal static let colorDisabledGrey = #656565
+    internal static let colorError = #E31B23
+    internal static let colorLight = #333333
+    internal static let colorLightGrey = #e9e9e9
+    internal static let colorLighterGrey = #f2f2f2
+    internal static let colorPrimary = #E5F7F7
+    internal static let colorSecondary = #F2F2F2
+    internal static let colorTertiary = #22c4b4
+    internal static let colorWarning = #FD9827
+    internal static let colorWhite = #242424
     internal static let fontFamiltyText = Roboto
     internal static let fontFamilyTitle = Asap
     internal static let fontSizeBase = 16
@@ -55,6 +63,7 @@ internal struct StyleDictionaryStruct {
     internal static let textDecorationLine = line-through
     internal static let textDecorationNormal = none
     internal static let textDecorationUnderline = underline
-    internal static let tokenSetOrder0 = VGZ
+    internal static let tokenSetOrder0 = VGZ Light
     internal static let tokenSetOrder1 = IZZ
+    internal static let tokenSetOrder2 = VGZ Dark
 }
