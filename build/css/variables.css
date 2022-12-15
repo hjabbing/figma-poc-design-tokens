@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 15 Dec 2022 13:10:25 GMT
+ * Generated on Thu, 15 Dec 2022 13:20:50 GMT
  */
 
 :root {
@@ -8,7 +8,6 @@
   --vgz-color-secondary: #0a9f8e;
   --vgz-color-tertiary: #22c4b4;
   --vgz-color-cta: #006FCE;
-  --vgz-h1: [object Object];
   --vgz-opacity-full: 1;
   --vgz-opacity-strong: 0.75;
   --vgz-opacity-medium: 0.5;
@@ -24,7 +23,41 @@
   --vgz-border-radius-base: 20;
   --vgz-border-radius-pill: 9999;
   --vgz-border-radius-circle: 50%;
-  --izz-primairy-dark: #4F1966;
-  --izz-primairy-base: #951B81;
-  --izz-primairy-light: #A74C97;
+  --vgz-font-size-xxl: 32;
+  --vgz-font-size-xl: 26;
+  --vgz-font-size-large: 20;
+  --vgz-font-size-base: 16;
+  --vgz-font-size-medium: 15;
+  --vgz-font-size-small: 14;
+  --vgz-font-size-tiny: 12;
+  --vgz-line-height-tiny: 100%;
+  --vgz-line-height-small: 120%;
+  --vgz-line-height-medium: 140%;
+  --vgz-line-height-base: 150%;
+  --vgz-line-height-large: 160%;
+  --vgz-line-height-xl: 200%;
+  --primairy-base: #951B81;
+  --primairy-light: #A74C97;
+  --color-primary: #0B6B6F;
+  --color-secondary: #0a9f8e;
+  --color-tertiary: #22c4b4;
+  --color-cta: #006FCE;
+  --h1: [object Object];
+  --opacity-full: 1;
+  --opacity-strong: 0.75;
+  --opacity-medium: 0.5;
+  --opacity-suble: 0.25;
+  --opacity-none: 0;
+  --font-family-title: Asap;
+  --font-familty-text: Roboto;
+  --font-weight-regular: Regular;
+  --font-weight-medium: SemiBold;
+  --font-weight-bold: Bold;
+  --border-radius-tiny: 4;
+  --border-rasdius-small: 10;
+  --border-radius-base: 20;
+  --border-radius-pill: 9999;
+  --border-radius-circle: 50%;
+  --token-set-order-0: VGZ;
+  --token-set-order-1: IZZ;
 }
