@@ -1,5 +1,21 @@
 {
-  "dependencies": {
-    "style-dictionary": "^3.7.1"
-  }
+  "name": "figma-poc-design-tokens",
+  "description": "Figma Poc - Design Tokens",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjabbing/figma-poc-design-tokens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjabbing/figma-poc-design-tokens/issues"
+  },
+  "homepage": "https://github.com/hjabbing/figma-poc-design-tokens#readme"
 }
